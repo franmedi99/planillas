@@ -34,7 +34,7 @@ $plantilla =  '<body>
     <div  style="position:absolute; margin-top:-0px; margin-left:300px;"> <strong> Acta de Constatacion N° '.$_SESSION['b1'].'</strong></div>
     <br><hr style="color: black; height: 3px;">
   <div >
-  <p style="position:absolute; margin-left:70%"> Mar del Plata&nbsp;&nbsp;'.$_SESSION['b2'].'/'.$_SESSION['b3'].'/'.$_SESSION['b4'].'  </p><br>
+  <p style="position:absolute; margin-left:50%"> Mar del Plata&nbsp;&nbsp;'.$_SESSION['b2'].'/'.$_SESSION['b3'].'/'.$_SESSION['b4'].'  </p><br>
   Naturaleza del hecho:&nbsp;'.$_SESSION['b5'].'<br>
  Constituye Infracción a:&nbsp;'.$_SESSION['b6'].'<br>
  Lugar:&nbsp;'.$_SESSION['b7'].'&nbsp;Hora:&nbsp;'.$_SESSION['b8'].'<br>
@@ -42,8 +42,8 @@ $plantilla =  '<body>
   Domicilio:&nbsp;'.$_SESSION['b11'].'<br>
   Vehículo:&nbsp;'.$_SESSION['b12'].'&nbsp;Patente:&nbsp;'.$_SESSION['b13'].'<br>
   <p style="text-align: justify;"><strong><u>CEDULA</u></strong>: a los fines previstos en el art. 46 de la Ley 8751, se cita y emplaza
-   al imputado a cmparecer ante el Juzgado de Faltas, a la audiencia del dia&nbsp;'.$_SESSION['b14'].'&nbsp;de&nbsp;'.$_SESSION['b15'].'&nbsp;de&nbsp;'.$_SESSION['b16'].' 
-   a las 9.00 hs o el dia ahábil siguiente si aquel fuera sábado,domingo o feriado,bajo apercibimiento de considerar su incomparecencia injustificada como circunstancia agravante y decretar la clausura del establecimiento, su conducción por la fuerza pública y/o
+   al imputado a comparecer ante el Juzgado de Faltas, a la audiencia del dia&nbsp;'.$_SESSION['b14'].'&nbsp;de&nbsp;'.$_SESSION['b15'].'&nbsp;de&nbsp;'.$_SESSION['b16'].' 
+   a las 9.00 hs o el  día hábil siguiente si aquel fuera sábado,domingo o feriado,bajo apercibimiento de considerar su incomparecencia injustificada como circunstancia agravante y decretar la clausura del establecimiento, su conducción por la fuerza pública y/o
    secuestro de los elementos utilizados para la comisión de la falta. Justicia Municipal de Faltas</p><br>
 
    &emsp;_____________________________&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;___________________________________<br>

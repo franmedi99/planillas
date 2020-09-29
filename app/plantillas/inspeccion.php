@@ -22,7 +22,7 @@ $plantilla =  '
 <body>
   
     <div id="logo"style="position: absolute; " >
-      <img src="../img/logo3.png" class="logo" style="width:350px; height:100px;  margin-left:30px;">
+      <img src="../img/logo_batan.png" class="logo" style="width:350px; height:100px;  margin-left:30px;">
       <img src="../img/logo2.png" class="logo" style="width:250px; height:50px; margin-left:450px; margin-bottom:30px; margin-top:-80px;">
     </div>
     <div class="requisitos" style="margin-top:20px; margin-left:40px;">

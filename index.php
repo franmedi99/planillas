@@ -12,7 +12,7 @@
 
 <nav class="navbar navbar-expand-lg  bg-primary">
   <a class="navbar-brand   offset-md-5  text-light active" href="#" >
-  Distrito Descentralizado Vieja Usina
+  MGP CIUDAD DE BATAN
 </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>

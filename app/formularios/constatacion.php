@@ -38,8 +38,8 @@
 
 
        <div class="form-row ">
-      <!-- <div class="form-group col-md-4 text-center ">--><label for="2">Localidad</label><input type="text" name="2" class="form-control text-center" value="Mar del Plata" placeholder="Localidad" hidden/> <!-- </div> -->
-      <div class="form-group col-md-6 text-center "><label for="3">Fecha</label> <input type="date"  name="3"  pattern="[0-9]{2}-[0-9]{2}-[0-9]{4}" class=" form-control text-center" placeholder="Fecha" required/></div>
+      <!-- <div class="form-group col-md-4 text-center "><label for="2">Localidad</label>--><input type="text" name="2" class="form-control text-center" value="Mar del Plata" placeholder="Localidad" hidden/> <!-- </div> -->
+      <div class="form-group col-md-6 text-center "><label for="3">Fecha</label> <input type="text"  name="3"  class=" form-control text-center" placeholder="Fecha" required/></div>
       <div class="form-group col-md-6 text-center "><label for="4">Hora</label> <input type="time" name="4" class=" form-control text-center" placeholder="Hora" required/></div>
   </div>
       
